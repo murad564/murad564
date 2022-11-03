@@ -1,16 +1,14 @@
-### Hi there 👋
+using System;
 
-<!--
-**murad564/murad564** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...programming
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...E-mail:meherremli.02@bk.ru Gmail:muradmuharrem564@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+namespace StepIT
+{
+  public class HelloGithub
+  {
+    public static void Main()
+    {
+      Console.WriteLine("Hi I'm @isaaholic");
+      Console.WriteLine("I'm a coder who wishes become .NET developer");
+      Console.WriteLine("I'm learning WPF");
+    }
+  }
+}
